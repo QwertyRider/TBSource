@@ -1,0 +1,1 @@
+<? print($HTTP_SERVER_VARS["HTTP_HOST"]); ?>

@@ -1,0 +1,3 @@
+<?
+$rconpassword = "mypass";
+?>

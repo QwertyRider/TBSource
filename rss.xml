@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<rss version="0.91">
+<channel>
+<title>TorrentBits</title>
+<description>0-week torrents</description>
+<link>http://localhost/tbsource_passkey/</link>
+<item>
+<title>bpftpsetup.exe (Appz/PC ISO)</title>
+<description>test</description>
+<link>http://localhost/tbsource_passkey/details.php?id=1&amp;hit=1</link>
+</item>
+</channel>
+</rss>
